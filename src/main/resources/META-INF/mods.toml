@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license="MIT"
+
+[[mods]]
+modId="auto_sleep"
+version="1.0.0"
+displayName="Auto Sleep"
+credits="evilisia - owner, galfar - author"
+displayURL="https://github.com/galfar-coder/autosleep/"
+authors="evislisa, galfar"
+description='''
+A mod that forces player to sleep when its night
+'''
+
+[[dependencies.auto_sleep]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

@@ -1,0 +1,111 @@
+{
+  "_fv": 15,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "Blocks.BED"
+      },
+      {
+        "value": "Blocks.ORANGE_BED"
+      },
+      {
+        "value": "Blocks.MAGENTA_BED"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_BED"
+      },
+      {
+        "value": "Blocks.YELLOW_BED"
+      },
+      {
+        "value": "Blocks.LIME_BED"
+      },
+      {
+        "value": "Blocks.PINK_BED"
+      },
+      {
+        "value": "Blocks.GRAY_BED"
+      },
+      {
+        "value": "Blocks.LIGHT_GRAY_BED"
+      },
+      {
+        "value": "Blocks.CYAN_BED"
+      },
+      {
+        "value": "Blocks.PURPLE_BED"
+      },
+      {
+        "value": "Blocks.BLUE_BED"
+      },
+      {
+        "value": "Blocks.BROWN_BED"
+      },
+      {
+        "value": "Blocks.GREEN_BED"
+      },
+      {
+        "value": "Blocks.RED_BED"
+      },
+      {
+        "value": "Blocks.BLACK_BED"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "Blocks.BED"
+      },
+      {
+        "value": "Blocks.ORANGE_BED"
+      },
+      {
+        "value": "Blocks.MAGENTA_BED"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_BED"
+      },
+      {
+        "value": "Blocks.YELLOW_BED"
+      },
+      {
+        "value": "Blocks.LIME_BED"
+      },
+      {
+        "value": "Blocks.PINK_BED"
+      },
+      {
+        "value": "Blocks.GRAY_BED"
+      },
+      {
+        "value": "Blocks.LIGHT_GRAY_BED"
+      },
+      {
+        "value": "Blocks.CYAN_BED"
+      },
+      {
+        "value": "Blocks.PURPLE_BED"
+      },
+      {
+        "value": "Blocks.BLUE_BED"
+      },
+      {
+        "value": "Blocks.BROWN_BED"
+      },
+      {
+        "value": "Blocks.GREEN_BED"
+      },
+      {
+        "value": "Blocks.RED_BED"
+      },
+      {
+        "value": "Blocks.BLACK_BED"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "name": "beds",
+    "namespace": "mod"
+  }
+}
